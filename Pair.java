@@ -84,7 +84,7 @@ public class Pair<Y, N> {
 
     public static void header() {
         System.out.println("*************************");
-        System.out.println("Name: Morgan Walker\nStudent Number: 251183118");
+        System.out.println("Name: Morgan Walkerbbbb\nStudent Number: 251183118");
         System.out.println("*************************\n");
     }
 
